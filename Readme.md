@@ -12,8 +12,8 @@
 
 ## Hobbies 
 * Sport
-              * Soccer
-              * Swimming
+  * Soccer
+  * Swimming
 * Going on vacations
 
 ## You Can Always Count On Me
