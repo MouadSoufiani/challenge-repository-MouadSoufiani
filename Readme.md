@@ -2,7 +2,7 @@
 
 *Work Hard, So You Can Play Hard*
 
-![Selfie](Selfie.jpg){:height="100px" width="100px"}
+![Selfie](Selfie.jpg)
 
 ## Me as a summary
 
@@ -26,5 +26,5 @@ I am so stressed right now, that I cant think of any funny story that happend to
 Shit happens.
 
 
-<< [Previous] (https://github.com/Liam-Selleslagh/Info-corner/blob/master/README.md] || Mouad Soufiani || Next >>
+<< [Previous](https://github.com/Liam-Selleslagh/Info-corner/blob/master/README.md] || Mouad Soufiani || Next >>
 
