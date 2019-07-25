@@ -26,5 +26,5 @@ I am so stressed right now, that I cant think of any funny story that happend to
 Shit happens.
 
 
-<< [Previous](https://github.com/Liam-Selleslagh/Info-corner/blob/master/README.md] || Mouad Soufiani || Next >>
+<< [Previous](https://github.com/Liam-Selleslagh/Info-corner/blob/master/README.md) || Mouad Soufiani || Next >>
 
