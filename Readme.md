@@ -2,7 +2,7 @@
 
 *Work Hard, So You Can Play Hard*
 
-[Selfie] (https://github.com/MouadSoufiani/challenge-repository-MouadSoufiani/blob/master/Selfie.jpg?raw=true)
+![Selfie] (https://github.com/MouadSoufiani/challenge-repository-MouadSoufiani/blob/master/Selfie.jpg?raw=true)
 
 ## Me as a summary
 
