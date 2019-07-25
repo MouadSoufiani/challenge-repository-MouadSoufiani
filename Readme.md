@@ -11,10 +11,10 @@
 | 26/04/1995 |  Male  |    Chicken    |       Blue     | :heavy_check_mark:   |
 
 ## Hobbies 
-*Sport
-   *Soccer
-   *Swimming
-*Vacations 
+* Sport
+              * Soccer
+              * Swimming
+* Going on vacations
 
 ## You Can Always Count On Me
 If I can help you, than I will. The door is always open for our team. We are here together, so we finish it together!
