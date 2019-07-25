@@ -24,7 +24,7 @@ I am so stressed right now, that I can't think of anything funny that happend to
 
 #### TL;DR
 Shit happens.
-
+But it also ends.
 
 << [Previous](https://github.com/Liam-Selleslagh/Info-corner/blob/master/README.md) || Mouad Soufiani || [Next](https://github.com/BarendStroobants/Markdown/blob/master/challenge-repository-barend.md) >>
 
