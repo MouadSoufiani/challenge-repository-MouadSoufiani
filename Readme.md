@@ -2,7 +2,7 @@
 
 *Work Hard, So You Can Play Hard*
 
-![Selfie](Selfie.jpg | width= 50)
+![Selfie](Selfie.jpg | width= 50 )
 
 ## Me as a summary
 
