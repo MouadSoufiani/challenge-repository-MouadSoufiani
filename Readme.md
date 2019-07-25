@@ -2,8 +2,7 @@
 
 *Work Hard, So You Can Play Hard*
 
-![Selfie](Selfie.jpg)
-<img src="Selfie.jpg" width="100" height="100">
+<img src="Selfie.jpg" width="250" height="250">
 
 ## Me as a summary
 
