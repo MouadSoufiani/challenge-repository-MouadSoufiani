@@ -14,7 +14,7 @@ Downloads/Selfie.jpg
 *Sport
 	*Soccer
 	*Swimming
-*Vacations 
+-Vacations 
 
 ## You Can Always Count On Me
 If I can help you, than I will. The door is always open for our team. We are here together, so we finish it together!
