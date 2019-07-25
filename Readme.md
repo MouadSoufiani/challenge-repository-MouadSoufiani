@@ -8,7 +8,7 @@
 
 |  Birthday  | Gender | Favorite Food | Favorite Color | Pineapple on pizza |
 | ---------- | -------| ------------- | -------------- | ------------------ |
-| 26/04/1995 |  Male  |    Chicken    |       Blue     | :heavy_check_mark:   |
+|    26/04   |  Male  |    Chicken    |       Blue     | :heavy_check_mark:   |
 
 ## Hobbies 
 * Sport
