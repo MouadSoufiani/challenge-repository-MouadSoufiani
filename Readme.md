@@ -1,6 +1,6 @@
 # Mouad Soufiani
 
-*Work Hard, So You Can Play Hard*
+*Education is the key to success in life, and teachers make a lasting impact in the lives of their students.*
 
 <img src="Selfie.jpg" width="250" height="250">
 
